@@ -1,0 +1,9 @@
+META.yml
+MYMETA.*
+Makefile
+MANIFEST
+blib/
+inc/
+pm_to_blib
+.prove
+Devel-REPL-*.tar.gz
