@@ -5,6 +5,7 @@ use inc::Module::Install 0.91;
 name 'Devel-REPL';
 perl_version '5.008001';
 all_from 'lib/Devel/REPL.pm';
+repository 'http://git.shadowcat.co.uk/gitweb/gitweb.cgi?p=p5sagit/Devel-REPL.git';
 
 install_script 'script/re.pl';
 
